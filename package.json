@@ -2,13 +2,13 @@
   "name": "pasapalabra",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jordiponsllaurado.github.io/pasapalabra/",
+  "homepage": "https://jordiponsllaurado.github.io/pasalacabra/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run buid",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
